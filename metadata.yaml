@@ -1,11 +1,16 @@
 _repo: Recuerdos-de-mi-vida-tomo-1-de-2_58331
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58331-h/images/cover.jpg
 creator:
   author:
     agent_name: Cajal, Santiago Ramón y
     gutenberg_agent_id: '49893'
     url: http://www.gutenberg.org/2009/agents/49893
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58331#Recuerdos-de-mi-vida-tomo-1-de-2
 gutenberg_issued: '2018-11-24'
 gutenberg_type: Text
 identifiers:
